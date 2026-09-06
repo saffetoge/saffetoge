@@ -3,7 +3,8 @@
 <p align="center">Yazılım Mühendisi · Yapay Zekâ Geliştiricisi · Robotem Robot Teknolojileri Kurucusu</p>
 
 <p align="center">
-  <a href="https://www.robotem.net"><img src="https://img.shields.io/badge/robotem.net-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web"></a>
+  <a href="https://www.robotem.net"><img src="https://img.shields.io/badge/robotem.net-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Robotem"></a>
+  <a href="https://pratikstore.com"><img src="https://img.shields.io/badge/pratikstore.com-16A34A?style=for-the-badge&logo=shopify&logoColor=white" alt="PratikStore"></a>
   <a href="mailto:saffetoge@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
   <a href="https://www.linkedin.com/in/saffetoge"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/SaffetOge"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
@@ -19,7 +20,7 @@
 
 I am a software engineer with more than ten years of experience building enterprise web and mobile applications. In recent years my focus has shifted to applied AI: I build products that integrate large language models into business workflows, deploy on-premise AI infrastructure for organisations, and deliver hands-on AI training.
 
-I am the founder of [Robotem Robot Technologies](https://www.robotem.net), based in Konya, Türkiye. Our team delivers management systems, dealer and order platforms, mobile applications and AI-powered automation for SMEs and enterprise clients.
+I am the founder of [Robotem Robot Technologies](https://www.robotem.net), based in Konya, Türkiye. Our team delivers management systems, dealer and order platforms, mobile applications and AI-powered automation for SMEs and enterprise clients. [PratikStore](https://pratikstore.com) is our own B2B dealer and order management platform.
 
 ### Areas of Expertise
 
@@ -71,7 +72,7 @@ For collaboration and training enquiries: [saffetoge@gmail.com](mailto:saffetoge
 
 On yılı aşkın süredir kurumsal web ve mobil uygulamalar geliştiren bir yazılım mühendisiyim. Son yıllarda odağım uygulamalı yapay zekâya kaydı: büyük dil modellerini iş süreçlerine entegre eden ürünler geliştiriyor, kurumlara yerinde (on-premise) yapay zekâ altyapısı kuruyor ve uygulamalı yapay zekâ eğitimleri veriyorum.
 
-Konya merkezli [Robotem Robot Teknolojileri](https://www.robotem.net) şirketinin kurucusuyum. Ekibimizle birlikte KOBİ ve kurumsal müşteriler için yönetim sistemleri, bayi ve sipariş platformları, mobil uygulamalar ve yapay zekâ destekli otomasyon çözümleri üretiyoruz.
+Konya merkezli [Robotem Robot Teknolojileri](https://www.robotem.net) şirketinin kurucusuyum. Ekibimizle birlikte KOBİ ve kurumsal müşteriler için yönetim sistemleri, bayi ve sipariş platformları, mobil uygulamalar ve yapay zekâ destekli otomasyon çözümleri üretiyoruz. [PratikStore](https://pratikstore.com), kendi geliştirdiğimiz B2B bayi ve sipariş yönetim platformudur.
 
 ### Uzmanlık Alanları
 
